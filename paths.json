@@ -1,0 +1,12 @@
+{
+  "mappings": [
+    "/content/geh-midwives/:/",
+    "/content/geh-midwives/configuration:/.helix/config.json",
+    "/content/geh-midwives/metadata:/metadata.json",
+    "/content/dam/geh-midwives/:/"
+  ],
+  "includes": [
+    "/content/geh-midwives/",
+    "/content/dam/geh-midwives/"
+  ]
+}
